@@ -1,2 +1,16 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+html {
+    width: 100%;
+}
+::-webkit-scrollbar {
+    width: 1.7rem;
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgb(94, 87, 87); 
+  }
+ .footer .container{
+     width:inherit;
+ }
+ 
