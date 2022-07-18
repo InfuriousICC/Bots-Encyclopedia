@@ -13,4 +13,10 @@ html {
  .footer .container{
      width:inherit;
  }
+
+ .grid-container{
+      display: grid;
+      grid-template-columns: auto auto auto;
+ }
+ 
  
